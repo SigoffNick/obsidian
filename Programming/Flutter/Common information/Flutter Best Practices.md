@@ -1,0 +1,1 @@
+https://itnext.io/flutter-best-practices-part-1-e89467ea4823

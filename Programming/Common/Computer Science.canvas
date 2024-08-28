@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"55153c4adc414f1e","type":"text","text":"Common","x":-140,"y":-60,"width":240,"height":60},
+		{"id":"c306c7f8e0644695","type":"text","text":"ООП","x":300,"y":-60,"width":250,"height":60},
+		{"id":"8e484605a22bb197","type":"file","file":"Common/ООП/ООП в картинках.md","x":740,"y":-200,"width":320,"height":80},
+		{"id":"c0094885db3cb263","x":300,"y":-660,"width":250,"height":60,"type":"text","text":"GIT"}
+	],
+	"edges":[
+		{"id":"130f30692c0486bf","fromNode":"55153c4adc414f1e","fromSide":"right","toNode":"c306c7f8e0644695","toSide":"left"},
+		{"id":"0fe2dccfbad4f6de","fromNode":"c306c7f8e0644695","fromSide":"right","toNode":"8e484605a22bb197","toSide":"left"},
+		{"id":"ccd9c60aab4724df","fromNode":"55153c4adc414f1e","fromSide":"right","toNode":"c0094885db3cb263","toSide":"left"}
+	]
+}

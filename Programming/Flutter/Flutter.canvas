@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"55a2ea06bf9a26ef","x":-160,"y":-60,"width":250,"height":60,"type":"text","text":"Flutter"},
+		{"id":"a9bb7466f5c9b5ab","x":260,"y":280,"width":250,"height":60,"type":"text","text":"Common information"}
+	],
+	"edges":[
+		{"id":"e07ec57c4c252725","fromNode":"55a2ea06bf9a26ef","fromSide":"right","toNode":"a9bb7466f5c9b5ab","toSide":"left"}
+	]
+}

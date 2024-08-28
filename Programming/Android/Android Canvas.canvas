@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"0d729fd4904f0ab8","type":"text","text":"Android Roadmap","x":-140,"y":-160,"width":250,"height":60},
+		{"id":"ee5d843b20a72e5c","type":"text","text":"Concurency","x":280,"y":240,"width":260,"height":60},
+		{"id":"4a6e95a016a6aa7a","type":"text","text":"Corotines","x":720,"y":500,"width":250,"height":60},
+		{"id":"5df0f7e9d06483c7","type":"text","text":"Гайды про разработку","x":-680,"y":-160,"width":250,"height":60},
+		{"id":"a2ac5dbf11db5b97","type":"file","file":"Android/Android Roadmap/Concurency/Corotines/Курутины. Базовая информация.md","x":1140,"y":760,"width":400,"height":80,"color":"6"},
+		{"id":"546c37de01b60a23","x":-1260,"y":-300,"width":400,"height":80,"color":"6","type":"file","file":"Android/Android Roadmap/Гайды про разработку/Как стать Android разработчиком в 2023.md"}
+	],
+	"edges":[
+		{"id":"6c637dd5daa55e70","fromNode":"0d729fd4904f0ab8","fromSide":"right","toNode":"ee5d843b20a72e5c","toSide":"left"},
+		{"id":"9a16460649a5d71e","fromNode":"ee5d843b20a72e5c","fromSide":"right","toNode":"4a6e95a016a6aa7a","toSide":"left"},
+		{"id":"6e8f1d6c497e5863","fromNode":"4a6e95a016a6aa7a","fromSide":"right","toNode":"a2ac5dbf11db5b97","toSide":"left"},
+		{"id":"8b855694f9cefd08","fromNode":"0d729fd4904f0ab8","fromSide":"left","toNode":"5df0f7e9d06483c7","toSide":"right"},
+		{"id":"a690f3f56b73f558","fromNode":"5df0f7e9d06483c7","fromSide":"left","toNode":"546c37de01b60a23","toSide":"right"}
+	]
+}

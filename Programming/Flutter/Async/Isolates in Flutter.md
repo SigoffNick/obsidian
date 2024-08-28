@@ -1,0 +1,1 @@
+https://medium.com/flutter-community/isolates-in-flutter-a0dd7a18b7f6

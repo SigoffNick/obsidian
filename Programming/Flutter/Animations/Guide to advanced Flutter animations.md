@@ -1,0 +1,1 @@
+https://blog.logrocket.com/guide-advanced-flutter-animations/
