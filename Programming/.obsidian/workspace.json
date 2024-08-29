@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6375bd1c11f46c18",
+        "id": "26d03023a0143487",
         "type": "tabs",
         "children": [
           {
-            "id": "f5622b6d70a1f771",
+            "id": "7b7ae1f58a8e24b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Android/Android Roadmap/Concurency/Corotines/Kotlin Coroutines под капотом.md",
+                "file": "Projects/Fintrust/Работы Fintrust за август.md",
                 "mode": "source",
                 "source": false
               }
@@ -36,9 +36,11 @@
             "id": "e534f379f0de394d",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
+              "type": "markdown",
               "state": {
-                "sortOrder": "alphabetical"
+                "file": "Android/Road.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -65,11 +67,28 @@
               "state": {}
             }
           }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "e427ff151ef18784",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "888a09905371df88",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 343.5
   },
   "right": {
     "id": "60bf88b64d3292b4",
@@ -85,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Android/Android Roadmap/Concurency/Corotines/Kotlin Coroutines под капотом.md",
+                "file": "Projects/Fintrust/Работы Fintrust за август.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Android/Android Roadmap/Concurency/Corotines/Kotlin Coroutines под капотом.md",
+                "file": "Projects/Fintrust/Работы Fintrust за август.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Android/Android Roadmap/Concurency/Corotines/Kotlin Coroutines под капотом.md"
+                "file": "Projects/Fintrust/Работы Fintrust за август.md"
               }
             }
           }
@@ -138,19 +157,29 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "f5622b6d70a1f771",
+  "active": "7b7ae1f58a8e24b5",
   "lastOpenFiles": [
-    "Android/Android Roadmap/Architeture/Еще раз про многомодульность Android-приложений.md",
-    "Android/Android Roadmap/Concurency/Corotines/Kotlin Coroutines под капотом.md",
+    "Projects/Excel Electric/Untitled.canvas",
+    "Projects/Fintrust/Работы Fintrust за август.md",
+    "Projects/Fintrust",
+    "Untitled.md",
+    "Projects/Excel Electric/Untitled Diagram.svg",
     "Android/Road.md",
+    "2024-08-29.md",
+    "Untitled.canvas",
+    "Android/Android Canvas.canvas",
+    "Projects/Excel Electric",
+    "Projects",
+    "Android/Android Roadmap/Concurency/Corotines/Kotlin Coroutines под капотом.md",
+    "Android/Android Roadmap/Architeture/Еще раз про многомодульность Android-приложений.md",
     "Android/Android Roadmap/Architeture",
     "Common/GIT/How to Write a Git Commit Message.md",
     "Flutter/Async/Isolates in Flutter.md",
@@ -177,15 +206,7 @@
     "Common/ООП/Принципы SOLID в картинках.md",
     "Flutter/Architecture/Clean/Flutter + чистая архитектура. Разбираем на примере.md",
     "Flutter/Common information/Advanced widgets.md",
-    "Flutter/Common information/Flutter Best Practices.md",
-    "Flutter/Async/Subject объекты в RxDart и чем они полезны Flutter-разработчику.md",
-    "Flutter/Common information/A pragmatic guide to BuildContext in Flutter.md",
-    "Flutter/Architecture/Clean/Flutter Clean Architecture Series.md",
-    "Flutter/Architecture/Clean",
-    "Flutter/Architecture",
-    "Flutter/BLOC",
     "Flutter/Flutter.canvas",
-    "Common/Computer Science.canvas",
-    "Android/Android Canvas.canvas"
+    "Common/Computer Science.canvas"
   ]
 }
