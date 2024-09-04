@@ -11,15 +11,31 @@
             "id": "f5622b6d70a1f771",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Android/Android Canvas.canvas",
+                "viewState": {
+                  "x": -780.5574918171837,
+                  "y": -143.6158233865118,
+                  "zoom": 0.4387991152640673
+                }
+              }
+            }
+          },
+          {
+            "id": "9a60c8f3769fa32e",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Android/Android Roadmap/Concurency/Corotines/Kotlin Coroutines под капотом.md",
+                "file": "Flutter/Projects/Excel/Pixelate.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Android/Android Roadmap/Concurency/Corotines/Kotlin Coroutines под капотом.md",
+                "file": "Flutter/Projects/Excel/Pixelate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Android/Android Roadmap/Concurency/Corotines/Kotlin Coroutines под капотом.md",
+                "file": "Flutter/Projects/Excel/Pixelate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Android/Android Roadmap/Concurency/Corotines/Kotlin Coroutines под капотом.md"
+                "file": "Flutter/Projects/Excel/Pixelate.md"
               }
             }
           }
@@ -146,10 +162,18 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "f5622b6d70a1f771",
+  "active": "9a60c8f3769fa32e",
   "lastOpenFiles": [
-    "Android/Android Roadmap/Architeture/Еще раз про многомодульность Android-приложений.md",
+    "Flutter/Projects/Space App.md",
+    "Flutter/Projects/Excel/Pixelate.md",
+    "Flutter/Projects/Excel",
+    "Flutter/Flutter.canvas",
+    "Android/Android Roadmap/Гайды про разработку/Как стать Android разработчиком в 2023.md",
+    "Android/Android Canvas.canvas",
+    "Flutter/Roadmap/Roadmap.md",
+    "Flutter/Roadmap/Flutter Developer Roadmap.md",
     "Android/Android Roadmap/Concurency/Corotines/Kotlin Coroutines под капотом.md",
+    "Android/Android Roadmap/Architeture/Еще раз про многомодульность Android-приложений.md",
     "Android/Road.md",
     "Android/Android Roadmap/Architeture",
     "Common/GIT/How to Write a Git Commit Message.md",
@@ -162,14 +186,11 @@
     "Flutter/Animations/Learn Flutter Animations by Example.md",
     "Common/Паттерны",
     "Flutter/Animations/Guide to advanced Flutter animations.md",
-    "Flutter/Roadmap/Roadmap.md",
     "Flutter/Animations",
     "Flutter/BLOC/Bloc main.md",
-    "Flutter/Projects/Space App.md",
     "Flutter/Common information/Using the Camera in Flutter.md",
     "Flutter/Projects",
     "Flutter/Architecture/Elementary/Elementary - новый взгляд на архитектуру Flutter-приложений.md",
-    "Flutter/Roadmap/Flutter Developer Roadmap.md",
     "Flutter/Architecture/Elementary",
     "Common/ООП/Принципы Solid и как они помогают сделать код лучше.md",
     "Flutter/Roadmap",
@@ -179,13 +200,8 @@
     "Flutter/Common information/Advanced widgets.md",
     "Flutter/Common information/Flutter Best Practices.md",
     "Flutter/Async/Subject объекты в RxDart и чем они полезны Flutter-разработчику.md",
-    "Flutter/Common information/A pragmatic guide to BuildContext in Flutter.md",
-    "Flutter/Architecture/Clean/Flutter Clean Architecture Series.md",
     "Flutter/Architecture/Clean",
     "Flutter/Architecture",
-    "Flutter/BLOC",
-    "Flutter/Flutter.canvas",
-    "Common/Computer Science.canvas",
-    "Android/Android Canvas.canvas"
+    "Common/Computer Science.canvas"
   ]
 }
