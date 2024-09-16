@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flutter/Projects/Excel/Pixelate.md",
+                "file": "Flutter/Projects/Excel/Nested navigation.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flutter/Projects/Excel/Pixelate.md",
+                "file": "Flutter/Projects/Excel/Nested navigation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flutter/Projects/Excel/Pixelate.md",
+                "file": "Flutter/Projects/Excel/Nested navigation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flutter/Projects/Excel/Pixelate.md"
+                "file": "Flutter/Projects/Excel/Nested navigation.md"
               }
             }
           }
@@ -164,6 +164,8 @@
   },
   "active": "9a60c8f3769fa32e",
   "lastOpenFiles": [
+    "Flutter/Projects/Excel/Pixelate.md",
+    "Flutter/Projects/Excel/Nested navigation.md",
     "Projects/Fintrust/Работы Fintrust за август.md",
     "Projects/Excel Electric/Untitled.canvas",
     "Projects/Excel Electric/Untitled Diagram.svg",
@@ -171,7 +173,6 @@
     "Projects/Excel Electric",
     "Projects",
     "Flutter/Projects/Space App.md",
-    "Flutter/Projects/Excel/Pixelate.md",
     "Flutter/Projects/Excel",
     "Flutter/Flutter.canvas",
     "Android/Android Roadmap/Гайды про разработку/Как стать Android разработчиком в 2023.md",
@@ -203,7 +204,6 @@
     "Common/ООП/Принципы SOLID в картинках.md",
     "Flutter/Architecture/Clean/Flutter + чистая архитектура. Разбираем на примере.md",
     "Flutter/Common information/Advanced widgets.md",
-    "Flutter/Common information/Flutter Best Practices.md",
     "Common/Computer Science.canvas"
   ]
 }
